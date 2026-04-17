@@ -135,7 +135,10 @@
               }
             },
             "tableSettings": {
-              "type": "ResponsiveTable"
+              "type": "ResponsiveTable",
+              "multiEdit": {
+                "enabled": true
+              }
             }
           }
         },
